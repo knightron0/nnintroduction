@@ -1,2 +1,2 @@
 # nnintroduction
-Me learning to make a neural network to learn
+Me learning how to make a neural network from scratch
